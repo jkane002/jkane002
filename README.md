@@ -1,7 +1,4 @@
 ## Hi there! 👋 I'm Jonathan Kaneshiro
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jkane002.jkane002)
-
 ## :computer: I’m currently working on
 * :iphone: [IkiEye](https://github.com/jkane002/Ikieye) - a React Native mobile app assisting in finding a meaningful direction or purpose in life
 * :hammer: Transitioning my website to React and Django
@@ -26,3 +23,6 @@
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/jkaneshiro/)
 * [Personal Website](https://jkaneshiro.me/)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jkane002.jkane002)
