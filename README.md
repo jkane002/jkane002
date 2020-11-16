@@ -17,7 +17,7 @@
  ## :bust_in_silhouette: About Me
 * :snake:  Freelance Python / Django Instructor
 * 💯 Aspiring Full Stack Developer
-* :globe_with_meridians:  Former intern at USC Institute for Creative Technologies
+* :globe_with_meridians:  Former intern at [USC Institute for Creative Technologies](https://vgl.ict.usc.edu/)
 * :mortar_board:  Bachelors degree in Computer Science from UC Riverside '19
 
 ## 📫 How to reach me:
