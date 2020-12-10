@@ -1,10 +1,10 @@
 ## Hi there! 👋 I'm Jonathan Kaneshiro
 ## :computer: I’m currently working on
 * :iphone: [IkiEye](https://github.com/jkane002/Ikieye) - a React Native mobile app assisting in finding a meaningful direction or purpose in life
-* :hammer: Transitioning my website to React and Django
+* :hammer: Transitioning my website to Django
  
  ## 🌱 I’m currently learning
- * :books: Advanced Python, REST APIs, Javascript, frontend and backend development
+ * :books: Data Science / Machine Learning, Advanced Python, REST APIs 
  
 ## :bulb: Featured Projects
 * :car: [R'Park](https://github.com/jkane002/parkingapp) - Find available parking at UC Riverside
