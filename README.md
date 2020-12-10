@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Jonathan Kaneshiro
 ## :computer: I’m currently working on
-* :iphone: [IkiEye](https://github.com/jkane002/Ikieye) - a React Native mobile app assisting in finding a meaningful direction or purpose in life
 * :hammer: Transitioning my website to Django
+* :iphone: [IkiEye](https://github.com/jkane002/Ikieye) - (PAUSED) a React Native mobile app assisting in finding a meaningful direction or purpose in life
  
  ## 🌱 I’m currently learning
  * :books: Data Science / Machine Learning, Advanced Python, REST APIs 
