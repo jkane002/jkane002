@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jonathan Kaneshiro
 ## :computer: I’m currently working on
-* :hammer: Transitioning my website to Django
+* :hammer: [jkane002-V2](https://github.com/jkane002/jkane002_v2) - Transitioning my website to Django
 * :iphone: [IkiEye](https://github.com/jkane002/Ikieye) - (PAUSED) a React Native mobile app assisting in finding a meaningful direction or purpose in life
  
  ## 🌱 I’m currently learning
