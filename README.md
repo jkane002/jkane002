@@ -22,7 +22,7 @@
 
 ## 📫 How to reach me:
 * [LinkedIn](https://www.linkedin.com/in/jkaneshiro/)
-* [Personal Website](https://jkaneshiro.me/)
+* [Personal Website](http://jkaneshiro.herokuapp.com/)
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jkane002.jkane002)
