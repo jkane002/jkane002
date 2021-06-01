@@ -1,9 +1,9 @@
 ## Hi there! 👋 I'm Jonathan Kaneshiro
 ## :computer: I’m currently working on
-* 📊 [Udemy](https://www.udemy.com/share/101WaUAEATcVpTTHwF/) - Python for Data Science and Machine Learning Bootcamp (25 hours)
+* 📊 Django projects
  
  ## 🌱 I’m currently learning
- * :books: Data Science / Machine Learning, Advanced Python, REST APIs 
+ * :books: Advanced Python & Django, REST APIs 
  
 ## :bulb: Featured Projects
 * :hammer: [jkane002-V2](https://github.com/jkane002/jkane002_v2) - Transitioned my website to Django
@@ -16,7 +16,6 @@
  
  ## :bust_in_silhouette: About Me
 * :snake:  Freelance Python / Django Instructor
-* 💯 Aspiring Full Stack Developer
 * :globe_with_meridians:  Former intern at [USC Institute for Creative Technologies](https://vgl.ict.usc.edu/)
 * :mortar_board:  Bachelors degree in Computer Science from UC Riverside '19
 
